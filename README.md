@@ -7,6 +7,6 @@ Arch:
 sudo pacman -S xcb-util xcb-util-wm xcb-util-keysyms xcb-util-image xcb-util-renderutil libxkbcommon-x11
 
 
-Ubuntu:
+Ubuntu e Mint:
 
 sudo apt install libxcb-cursor0 libfuse2t64
