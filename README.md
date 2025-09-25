@@ -15,4 +15,4 @@ sudo apt install libxcb-cursor0 libfuse2t64 qt6-wayland
 
 openSUSE:
 
-sudo zypper install libgthread-2_0-0
+sudo zypper install libgthread-2_0-0 qt6-wayland
