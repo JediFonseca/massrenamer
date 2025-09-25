@@ -1,10 +1,11 @@
-This repository is for EXPERIMENTAL purposes. There's nothing you should use here.
+# This repository is for EXPERIMENTAL purposes. There's nothing you should use here.
 
 
 Versão com linuxdeploy
 
 Arch:
-sudo pacman -S xcb-util xcb-util-wm xcb-util-keysyms xcb-util-image xcb-util-renderutil libxkbcommon-x11
+
+sudo pacman -S xcb-util xcb-util-wm xcb-util-keysyms xcb-util-image xcb-util-renderutil libxkbcommon-x11 qt6-wayland
 
 
 Ubuntu e Mint:
