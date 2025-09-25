@@ -1,0 +1,102 @@
+projeto.snap/
+├── appicon.png
+├── appicon.svg
+├── massrenamer.dist
+│   ├── appicon.svg
+│   ├── _bz2.so
+│   ├── _codecs_cn.so
+│   ├── _codecs_hk.so
+│   ├── _codecs_iso2022.so
+│   ├── _codecs_jp.so
+│   ├── _codecs_kr.so
+│   ├── _codecs_tw.so
+│   ├── _contextvars.so
+│   ├── _decimal.so
+│   ├── _hashlib.so
+│   ├── libbz2.so.1.0
+│   ├── libcrypto.so.3
+│   ├── libexpat.so.1
+│   ├── libicudata.so.73
+│   ├── libicui18n.so.73
+│   ├── libicuuc.so.73
+│   ├── liblzma.so.5
+│   ├── libQt6Core.so.6
+│   ├── libQt6DBus.so.6
+│   ├── libQt6EglFSDeviceIntegration.so.6
+│   ├── libQt6Gui.so.6
+│   ├── libQt6Network.so.6
+│   ├── libQt6OpenGL.so.6
+│   ├── libQt6Pdf.so.6
+│   ├── libQt6PrintSupport.so.6
+│   ├── libQt6Svg.so.6
+│   ├── libQt6WaylandClient.so.6
+│   ├── libQt6WaylandEglClientHwIntegration.so.6
+│   ├── libQt6Widgets.so.6
+│   ├── libQt6WlShellIntegration.so.6
+│   ├── libQt6XcbQpa.so.6
+│   ├── _lzma.so
+│   ├── massrenamer.bin
+│   ├── _multibytecodec.so
+│   └── PyQt6
+│       ├── Qt6
+│       │   └── plugins
+│       │       ├── egldeviceintegrations
+│       │       │   ├── libqeglfs-emu-integration.so
+│       │       │   ├── libqeglfs-kms-egldevice-integration.so
+│       │       │   ├── libqeglfs-kms-integration.so
+│       │       │   └── libqeglfs-x11-integration.so
+│       │       ├── iconengines
+│       │       │   └── libqsvgicon.so
+│       │       ├── imageformats
+│       │       │   ├── libqgif.so
+│       │       │   ├── libqicns.so
+│       │       │   ├── libqico.so
+│       │       │   ├── libqjpeg.so
+│       │       │   ├── libqpdf.so
+│       │       │   ├── libqsvg.so
+│       │       │   ├── libqtga.so
+│       │       │   ├── libqtiff.so
+│       │       │   ├── libqwbmp.so
+│       │       │   └── libqwebp.so
+│       │       ├── platforms
+│       │       │   ├── libqeglfs.so
+│       │       │   ├── libqlinuxfb.so
+│       │       │   ├── libqminimalegl.so
+│       │       │   ├── libqminimal.so
+│       │       │   ├── libqoffscreen.so
+│       │       │   ├── libqvkkhrdisplay.so
+│       │       │   ├── libqvnc.so
+│       │       │   ├── libqwayland-egl.so
+│       │       │   ├── libqwayland-generic.so
+│       │       │   └── libqxcb.so
+│       │       ├── platformthemes
+│       │       │   ├── libqgtk3.so
+│       │       │   └── libqxdgdesktopportal.so
+│       │       ├── printsupport
+│       │       │   └── libcupsprintersupport.so
+│       │       ├── tls
+│       │       │   ├── libqcertonlybackend.so
+│       │       │   └── libqopensslbackend.so
+│       │       ├── wayland-decoration-client
+│       │       │   ├── libadwaita.so
+│       │       │   └── libbradient.so
+│       │       ├── wayland-graphics-integration-client
+│       │       │   ├── libdmabuf-server.so
+│       │       │   ├── libdrm-egl-server.so
+│       │       │   ├── libqt-plugin-wayland-egl.so
+│       │       │   ├── libshm-emulation-server.so
+│       │       │   └── libvulkan-server.so
+│       │       ├── wayland-shell-integration
+│       │       │   ├── libfullscreen-shell-v1.so
+│       │       │   ├── libivi-shell.so
+│       │       │   ├── libqt-shell.so
+│       │       │   ├── libwl-shell-plugin.so
+│       │       │   └── libxdg-shell.so
+│       │       └── xcbglintegrations
+│       │           ├── libqxcb-egl-integration.so
+│       │           └── libqxcb-glx-integration.so
+│       ├── QtCore.so
+│       ├── QtGui.so
+│       ├── QtWidgets.so
+│       └── sip.so
+└── massrenamer.py
